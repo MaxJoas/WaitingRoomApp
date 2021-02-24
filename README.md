@@ -4,6 +4,8 @@ Dear future employer,
 
 I am honored by your interest in my GitHub profile.
 You are probably here because I mention this app in my resume letter.
-Since I am hoping to one day create a business out of this app, the code is private.
-However, if you are interested in seeing the code or try out the app (only possible on android devices, ios coming soon)
-just write me an email and I will send you the APK file to try out the app and temporarily set the 'real' waiting-room repo to public.
+Since this cross-platform application is the main product of my company NAIT UG (haftungsbeschränkt), the code is private.
+
+NAIT aims to get rid of long waiting times at the doctor's office and runs on [web](https://nait.app), [IOS](https://apps.apple.com/de/app/nait/id1513714236) and [Android](https://play.google.com/store/apps/details?id=com.nait.android&hl=en_GB)
+
+Please visit our [landing page](https://nait.io) for more information.
